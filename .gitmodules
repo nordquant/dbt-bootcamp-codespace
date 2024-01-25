@@ -1,0 +1,3 @@
+[submodule "complete-dbt-bootcamp-zero-to-hero"]
+	path = complete-dbt-bootcamp-zero-to-hero
+	url = https://github.com/nordquant/complete-dbt-bootcamp-zero-to-hero
