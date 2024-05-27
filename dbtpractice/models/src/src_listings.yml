@@ -1,0 +1,9 @@
+version: 1
+models:
+  - name: src_listings
+    columns:
+      - name: listing_id
+        tests:
+        - unique
+        - not_null
+      
