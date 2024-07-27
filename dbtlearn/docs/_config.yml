@@ -1,0 +1,6 @@
+title: My Documentation Site
+description: A brief description of your documentation site.
+baseurl: "" # Change if you are using a subdirectory
+url: "https://kittureddy05.github.io/dbt-bootcamp-codespace" # Your GitHub Pages URL
+
+theme: jekyll-theme-primer # Use your desired theme
